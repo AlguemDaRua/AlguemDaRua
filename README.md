@@ -3,7 +3,7 @@
   
   <!-- Language Buttons -->
   <a href="#portuguese">
-    <img src="https://img.shields.io/badge/🇧🇷_Português-009739?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🇲🇿_Português-009739?style=for-the-badge" />
   </a>
   <a href="#english">
     <img src="https://img.shields.io/badge/🇺🇸_English-004785?style=for-the-badge" />
@@ -165,17 +165,26 @@
 <!-- PORTUGUESE VERSION -->
 <div id="portuguese">
 
+<div align="center">
+  
+  <!-- Language Buttons -->
+  <a href="#portuguese">
+    <img src="https://img.shields.io/badge/🇲🇿_Português-009739?style=for-the-badge" />
+  </a>
+  <a href="#english">
+    <img src="https://img.shields.io/badge/🇺🇸_English-004785?style=for-the-badge" />
+  </a>
+</div>
+
 <!-- Header Banner Portuguese -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Entusiasta+Linux;Sempre+Aprendendo;Aberto+para+Colabora%C3%A7%C3%B5es" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12&height=180&section=header&text=Azam%20Usman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20|%20Entusiasta%20Open%20Source&descAlignY=52&descSize=18" width="100%" />
 </div>
 
 <!-- Typing Animation Portuguese -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Entusiasta+Linux;Sempre+Aprendendo;Aberto+a+Colaborações" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Entusiasta+Linux;Sempre+Aprendendo;Aberto+para+Colabora%C3%A7%C3%B5es" alt="Typing SVG" />
   </a>
 </div>
 
