@@ -15,7 +15,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12&height=180&section=header&text=Azam%20Usman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12&height=180&section=header&text=Azam%20Usman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Information%20Technology%20and%20Telecomunication%20Engineer%20|%20Open%20Source%20Enthusiast&descAlignY=52&descSize=18" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -178,7 +178,7 @@
 
 <!-- Header Banner Portuguese -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12&height=180&section=header&text=Azam%20Usman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack%20|%20Entusiasta%20Open%20Source&descAlignY=52&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,12&height=180&section=header&text=Azam%20Usman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Enhenheiro%20Informatico%20e%20de%20Telecomunicacao%20|%20Entusiasta%20Open%20Source&descAlignY=52&descSize=18" width="100%" />
 </div>
 
 <!-- Typing Animation Portuguese -->
